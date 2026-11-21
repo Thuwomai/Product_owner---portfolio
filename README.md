@@ -55,8 +55,8 @@ Dự án cá nhân | T9/2026 – T10/2026
 
 - **NEXUS:** https://github.com/NicolasWillyam/nexus-fe/tree/feat/add-empty-and-error-states
 - **LunaBank – Test Case:** https://github.com/Thuwomai/LunaBank-Login-Test-Cases/tree/main
-- **Digital Signature:** 
-- - **Hệ thống quản lý KTX:** 
+- **Digital Signature:** https://drive.google.com/file/d/1AkdUuEnTjPf2rM6yx4phgDQGHbA3juDO/view?usp=sharing
+- - **Hệ thống quản lý KTX:** https://drive.google.com/file/d/1Ffylich_ghXm6XH6ieuuTpA_eC466L1C/view?usp=sharing
 
 ## Triển khai GitHub Pages
 Repository → Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
